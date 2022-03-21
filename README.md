@@ -9,7 +9,7 @@
 - 🌱 I’m currently building my portfolio.
 
 ### 📊 Data Projects 
-- R + Tableau: How to Improve Market Share with Bellabeat Fitness Data - Cooming Soon. 
+- [Excel + Tableau: How to Improve Market Share with Bellabeat Fitness Data](https://github.com/YamineeSamrit/BellaBeat_Case_Study)
 - [SQL + R + Tableau: Using Cyclistic Bike-Share Data to Create New Marketing Campaign](https://github.com/YamineeSamrit/Cyclistic_bikeshare_case_study)
 
 ### 🥰 Personal Projects
